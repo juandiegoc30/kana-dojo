@@ -289,5 +289,17 @@
       "October"
     ],
     "correctIndex": 1
-  }
+  },
+  {
+  "question": "Which Japanese city is known for the famous bamboo grove? (Community variation 31)",
+  "difficulty": "easy",
+  "answers": [
+    "Kyoto",
+    "Tokyo",
+    "Sapporo",
+    "Fukuoka"
+  ],
+  "correctIndex": 0
+}
+  
 ]
